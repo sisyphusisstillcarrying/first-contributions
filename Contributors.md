@@ -22,8 +22,9 @@
 - [Michael Studley](https://github.com/M-Studley) ***This is my first attempt at a contribution!***
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
-- [Jayce]
+- [Jayce](https://github.com/sisyphusisstillcarrying) ***Just restarted everthing from the bottom. Hope it works out this time and I dont lose focus, God bless. Aims to be a AI Engineer in the future***
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+- [Naveen Singh]
 - [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
 - [Andres Pedreros Castro] (https://github.com/AndresPedrerosC) *** My first and hopefully not last open source contribution 😁
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
